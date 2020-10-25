@@ -1,0 +1,14 @@
+git add 将工作区的文件提交到暂存区
+git status 检查当前区域到状态
+git commit-m 提交描述
+git config -- global user.name' ' 设置用户名
+git config -- global user.name ' ' 设置用户名邮箱
+初始化一个新的git仓库
+创建文件夹 mkdir demo1
+在文件夹内初始化Git（创建Git仓库）cd demo1 git init
+git在本地，github在线上
+删除文件 rm .....
+从git中删除文件 git rm ...
+git commit -m '提交描述'
+git push可以将本地仓库提交到远程仓库中
+git clone address 克隆文件
